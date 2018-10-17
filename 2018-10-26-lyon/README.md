@@ -53,7 +53,7 @@ https://github.com/intel/webml-polyfill/blob/master/docs/native_mapping.md
 
 * Review and discuss API spec proposals submitted as input that could inform the spec work in this group:
 
-  * WebML API proof-of-concept by @huningxin
+  * WebML API proof-of-concept by @huningxin https://github.com/intel/webml-polyfill/blob/master/docs/api.md
   * Any other proposals
 
 >To submit a proposal, please open a new issue:
