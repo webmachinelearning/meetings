@@ -40,7 +40,7 @@ https://www.w3.org/Data/events/data-ws-2019/
 
 * Discuss target demographic (JS lib and fw authors) and its needs
 
-* Solicit input on use cases, low level vs. high level API
+* Solicit input on use cases, low level vs. high level API https://github.com/webmachinelearning/meetings/issues/1
 
 * Does our current scope capture the needs of the target audience?
 
