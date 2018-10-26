@@ -8,13 +8,13 @@
 
 ## Logistics
 
-* Chair:
+* Chair: Anssi Kostiainen
 * Scribe:
 * IRC: irc://irc.w3.org:6667/#webmachinelearning
 * IRC web client: http://irc.w3.org/?channels=#webmachinelearning
-* Remote participation:
+* Remote participation: join IRC and ask
 
-## [DRAFT] Agenda
+## Agenda
 
 >To propose an agenda topic, please open a new issue:
 >https://github.com/webmachinelearning/meetings/issues/new
