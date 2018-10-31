@@ -9,10 +9,14 @@
 ## Logistics
 
 * Chair: Anssi Kostiainen
-* Scribe:
+* Scribe: Myles Maxfield
 * IRC: irc://irc.w3.org:6667/#webmachinelearning
 * IRC web client: http://irc.w3.org/?channels=#webmachinelearning
 * Remote participation: join IRC and ask
+
+## Meeting minutes
+
+* https://www.w3.org/2018/10/26-webmachinelearning-minutes.html
 
 ## Agenda
 
