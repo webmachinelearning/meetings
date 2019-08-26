@@ -2,21 +2,21 @@
 
 ![WebML logo][logo]
 
-* Date/time: [Tue 17 Sep 2019 15:30-17:30 (JST)](https://www.w3.org/2019/09/TPAC/schedule.html#cgs-tue) and [Fri 20 Sep 2019 15:30-17:30 (JST)](https://www.w3.org/2019/09/TPAC/schedule.html#cgs-fri)
+* Date/time: [Tue 17 Sep 2019 13:30-15:30 (JST)](https://www.w3.org/2019/09/TPAC/schedule.html#cgs-tue) and [Fri 20 Sep 2019 15:30-17:30 (JST)](https://www.w3.org/2019/09/TPAC/schedule.html#cgs-fri)
 * Location: [Hilton Fukuoka Sea Hawk](https://www.w3.org/2019/09/TPAC/venue.html)
 * Meeting Room(s): TBA
 
 <details>
 <summary>Show date/time on other timezones</summary> 
 <table>
-  <tr><td> San Francisco (U.S.A. - California) <td> <b>Mon/Thu, 16/19 September 2019</b> <td> 23:30 pm PDT <td> UTC-7 hours
-<tr><td> Boston (U.S.A. - Massachusetts) <td> Tue/Fri, 17/20 September 2019 <td> 02:30 am EDT <td> UTC-4 hours
-<tr><td> London (United Kingdom - England) <td> Tue/Fri, 17/20 September 2019 <td> 07:30 am BST <td> UTC+1 hours
-<tr><td> Berlin (Germany) <td> Tue/Fri, 17/20 September 2019 <td> 08:30 am CEST <td> UTC+2 hours
-<tr><td> Helsinki (Finland) <td> Tue/Fri, 17/20 September 2019 <td> 09:30 am EEST <td> UTC+3 hours
-<tr><td> Shanghai (China) <td> Tue/Fri, 17/20 September 2019 <td> 14:30 pm CST <td> UTC+8 hours
-<tr><td> Tokyo (Japan) <td> Tue/Fri, 17/20 September 2019 <td> 15:30 JST <td> UTC+9 hours
-<tr><td> Corresponding UTC (GMT) <td> Tue/Fri, 17/20 September 2019 <td colspan=2> 06:30 UTC
+  <tr><td> San Francisco (U.S.A. - California) <td> <b>Mon/Thu, 16/19 September 2019</b> <td> 21:30/23:30 pm PDT <td> UTC-7 hours
+<tr><td> Boston (U.S.A. - Massachusetts) <td> Tue/Fri, 17/20 September 2019 <td> 00:30/02:30 am EDT <td> UTC-4 hours
+<tr><td> London (United Kingdom - England) <td> Tue/Fri, 17/20 September 2019 <td> 05:30/07:30 am BST <td> UTC+1 hours
+<tr><td> Berlin (Germany) <td> Tue/Fri, 17/20 September 2019 <td> 06:30/08:30 am CEST <td> UTC+2 hours
+<tr><td> Helsinki (Finland) <td> Tue/Fri, 17/20 September 2019 <td> 07:30/09:30 am EEST <td> UTC+3 hours
+<tr><td> Shanghai (China) <td> Tue/Fri, 17/20 September 2019 <td> 12:30/14:30 pm CST <td> UTC+8 hours
+<tr><td> Tokyo (Japan) <td> Tue/Fri, 17/20 September 2019 <td> 13:30/15:30 JST <td> UTC+9 hours
+<tr><td> Corresponding UTC (GMT) <td> Tue/Fri, 17/20 September 2019 <td colspan=2> 04:30/06:30 UTC
 </table>
 </details>
 
