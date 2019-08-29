@@ -59,6 +59,8 @@
 
 #### 15:30 Meeting start
 
+#### W3C Web & Machine Learning Workshop 2020
+
 #### 17:30 Meeting end
 
 [logo]: https://avatars3.githubusercontent.com/u/42399997?s=100 "WebML Logo, CC0 Creative Commons"
