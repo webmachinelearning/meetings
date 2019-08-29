@@ -2,9 +2,10 @@
 
 ![WebML logo][logo]
 
+* Registration: [TPAC registration system](https://www.w3.org/2019/09/TPAC/registration.html)
 * Date/time: [Tue 17 Sep 2019 13:30-15:30 (JST)](https://www.w3.org/2019/09/TPAC/schedule.html#cgs-tue) and [Fri 20 Sep 2019 15:30-17:30 (JST)](https://www.w3.org/2019/09/TPAC/schedule.html#cgs-fri)
 * Location: [Hilton Fukuoka Sea Hawk](https://www.w3.org/2019/09/TPAC/venue.html)
-* Meeting Room(s): TBA
+* Meeting Room(s): [Tuesday](https://www.w3.org/2019/09/TPAC/schedule.html#cgs-tue) and [Friday](https://www.w3.org/2019/09/TPAC/schedule.html#cgs-fri)
 
 <details>
 <summary>Show date/time on other timezones</summary> 
