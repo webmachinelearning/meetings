@@ -26,7 +26,8 @@
 * Scribe: TBD
 * IRC: irc://irc.w3.org:6667/#webmachinelearning
 * IRC web client: http://irc.w3.org/?channels=#webmachinelearning
-* Remote participation: join IRC and ask
+* Remote participation: https://lists.w3.org/Archives/Member/internal-webmachinelearning/2019Aug/0000.html (login with your [W3C account](https://www.w3.org/Help/Account/))
+
 
 ## Meeting minutes
 
