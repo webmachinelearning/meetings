@@ -47,9 +47,13 @@
 
 * Roundtable 30-sec intros: your affiliation & interests toward the group (All)
 
-#### Topic one
+* Operation set
+  * Compatibility study of 14 operators of Opset 10 ([#17](https://github.com/webmachinelearning/webnn/issues/17))
+  * Backwards compatibility ([#24](https://github.com/webmachinelearning/webnn/issues/24))
+  * DirectML proof-of-concept (Lead: Ningxin)
 
-#### Topic two
+* Custom operations ([#6](https://github.com/webmachinelearning/webnn/issues/6))
+  * WebGPU-WebNN interop (lead: Ningxin)
 
 #### 17:30 End meeting
 
@@ -59,7 +63,17 @@
 
 #### 15:30 Meeting start
 
-#### W3C Web & Machine Learning Workshop 2020
+* Exploratory topics
+  * Training capability
+  * New use cases
+
+* Standards track next steps
+  * Explainer and TAG review ([#18](https://github.com/webmachinelearning/webnn/issues/18))
+  * Working Group graduation expectations (lead: Dom)
+
+* W3C Workshop
+  * Moved to 2020 ([to-be-revised draft](https://www.w3.org/2018/11/machine-learning-workshop/))
+  * Seek input on scoping & format
 
 #### 17:30 Meeting end
 
