@@ -78,3 +78,5 @@
 #### 17:30 Meeting end
 
 [logo]: https://avatars3.githubusercontent.com/u/42399997?s=100 "WebML Logo, CC0 Creative Commons"
+
+#### 18:30 Group dinner?
