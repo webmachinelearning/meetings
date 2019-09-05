@@ -47,13 +47,15 @@
 
 * Roundtable 30-sec intros: your affiliation & interests toward the group (All)
 
+* Custom operations ([#6](https://github.com/webmachinelearning/webnn/issues/6))
+  * WebGPU-WebNN interop (lead: Ningxin)
+
+* Multi-Level Intermediate Representation ([MLIR](https://github.com/tensorflow/mlir)) exploration (Lead: Nikhil) 
+
 * Operation set
   * Compatibility study of 14 operators of Opset 10 ([#17](https://github.com/webmachinelearning/webnn/issues/17))
   * Backwards compatibility ([#24](https://github.com/webmachinelearning/webnn/issues/24))
   * DirectML proof-of-concept (Lead: Ningxin)
-
-* Custom operations ([#6](https://github.com/webmachinelearning/webnn/issues/6))
-  * WebGPU-WebNN interop (lead: Ningxin)
 
 #### 17:30 End meeting
 
