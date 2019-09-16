@@ -41,7 +41,7 @@
 
 ### Day 1 - Tue 17 Sep 2019
 
-#### 15:30 Welcome, introductions
+#### 13:30 Welcome, introductions
 
 * Welcome (Chair)
 
@@ -57,7 +57,7 @@
   * Backwards compatibility ([#24](https://github.com/webmachinelearning/webnn/issues/24))
   * DirectML proof-of-concept (Lead: Ningxin)
 
-#### 17:30 End meeting
+#### 15:30 End meeting
 
 ### Day 2 - Fri 20 Sep 2019
 
