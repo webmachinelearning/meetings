@@ -52,11 +52,6 @@
 
 * Multi-Level Intermediate Representation ([MLIR](https://github.com/tensorflow/mlir)) exploration (Lead: Nikhil) 
 
-* Operation set
-  * Compatibility study of 14 operators of Opset 10 ([#17](https://github.com/webmachinelearning/webnn/issues/17))
-  * Backwards compatibility ([#24](https://github.com/webmachinelearning/webnn/issues/24))
-  * DirectML proof-of-concept (Lead: Ningxin), [ops](https://github.com/intel/webml-polyfill/blob/master/docs/supported_ops.md), [native mapping](https://docs.google.com/spreadsheets/d/1nthZOwgIKsj34EB-SymEwoNTPsxo4X8Pxavm-JaBwME/edit?usp=sharing), [perf](https://docs.google.com/spreadsheets/d/1nZziT-2uOWeHFeOU3yDZ4_0KDJElkb_4nqXdv6vG5ak/edit?usp=sharing)
-
 #### 15:30 End meeting
 
 ### Day 2 - Fri 20 Sep 2019
@@ -64,6 +59,11 @@
 >Day 2 is to discuss topics we've put on a parking lot on Day 1. If you can only attend one day, consider Day 2 optional.
 
 #### 15:30 Meeting start
+
+* Operation set
+  * Compatibility study of 14 operators of Opset 10 ([#17](https://github.com/webmachinelearning/webnn/issues/17))
+  * Backwards compatibility ([#24](https://github.com/webmachinelearning/webnn/issues/24))
+  * DirectML proof-of-concept (Lead: Ningxin), [ops](https://github.com/intel/webml-polyfill/blob/master/docs/supported_ops.md), [native mapping](https://docs.google.com/spreadsheets/d/1nthZOwgIKsj34EB-SymEwoNTPsxo4X8Pxavm-JaBwME/edit?usp=sharing), [perf](https://docs.google.com/spreadsheets/d/1nZziT-2uOWeHFeOU3yDZ4_0KDJElkb_4nqXdv6vG5ak/edit?usp=sharing)
 
 * Exploratory topics
   * Training capability
