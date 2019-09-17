@@ -48,9 +48,9 @@
 * Roundtable 30-sec intros: your affiliation & interests toward the group (All)
 
 * Custom operations ([#6](https://github.com/webmachinelearning/webnn/issues/6))
-  * WebGPU-WebNN interop (lead: Ningxin), [slides](https://docs.google.com/presentation/d/1KGRc1RnnYt_1JK2Pk6r2xRkD60v4F8jc4beHMv0crng/edit?usp=sharing)
+  * WebGPU-WebNN interop (lead: Ningxin), [slides](https://docs.google.com/presentation/d/1KGRc1RnnYt_1JK2Pk6r2xRkD60v4F8jc4beHMv0crng/)
 
-* Multi-Level Intermediate Representation ([MLIR](https://github.com/tensorflow/mlir)) exploration (Lead: Nikhil) 
+* Multi-Level Intermediate Representation ([MLIR](https://github.com/tensorflow/mlir)) exploration (Lead: Nikhil), [slides](https://docs.google.com/presentation/d/1vv-pFsTqAVITtx3RwmEs-g7YRK1PD9APSIuice88aSI/)
 
 #### 15:30 End meeting
 
