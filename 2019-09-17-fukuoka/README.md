@@ -71,11 +71,11 @@
 
 * Standards track next steps
   * Explainer and TAG review ([#18](https://github.com/webmachinelearning/webnn/issues/18))
-  * Working Group graduation expectations (lead: Dom)
+  * Towards W3C Standardization (lead: Dom), [slides](https://www.w3.org/2019/Talks/dhm-ml-workshop/standardization.html)
 
 * W3C Workshop
-  * Moved to 2020 ([to-be-revised draft](https://www.w3.org/2018/11/machine-learning-workshop/))
-  * Seek input on scoping & format
+  * Towards a Web & Machine Learning Workshop, [slides](https://www.w3.org/2019/Talks/dhm-ml-workshop/)
+  * Seek input on scoping & format, [to-be-revised workshop page draft](https://www.w3.org/2018/11/machine-learning-workshop/)
 
 #### 17:30 Meeting end
 
