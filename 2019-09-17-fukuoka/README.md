@@ -67,10 +67,6 @@
   * Backwards compatibility ([#24](https://github.com/webmachinelearning/webnn/issues/24))
   * DirectML proof-of-concept (Lead: Ningxin), [ops](https://github.com/intel/webml-polyfill/blob/master/docs/supported_ops.md), [native mapping](https://docs.google.com/spreadsheets/d/1nthZOwgIKsj34EB-SymEwoNTPsxo4X8Pxavm-JaBwME/edit?usp=sharing), [perf](https://docs.google.com/spreadsheets/d/1nZziT-2uOWeHFeOU3yDZ4_0KDJElkb_4nqXdv6vG5ak/edit?usp=sharing)
 
-* Exploratory topics
-  * Training capability
-  * New use cases
-
 * Standards track next steps
   * Explainer and TAG review ([#18](https://github.com/webmachinelearning/webnn/issues/18))
   * Towards W3C Standardization (lead: Dom), [slides](https://www.w3.org/2019/Talks/dhm-ml-workshop/standardization.html)
@@ -78,6 +74,10 @@
 * W3C Workshop
   * Towards a Web & Machine Learning Workshop, [slides](https://www.w3.org/2019/Talks/dhm-ml-workshop/)
   * Seek input on scoping & format, [to-be-revised workshop page draft](https://www.w3.org/2018/11/machine-learning-workshop/)
+
+* Exploratory topics
+  * Training capability
+  * New use cases
 
 #### 17:30 Meeting end
 
