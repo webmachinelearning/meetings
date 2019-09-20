@@ -62,6 +62,8 @@
 
 * Operation set
   * Compatibility study of 14 operators of Opset 10 ([#17](https://github.com/webmachinelearning/webnn/issues/17))
+    * matMul ([#27](https://github.com/webmachinelearning/webnn/issues/27))
+    * conv2d ([#28](https://github.com/webmachinelearning/webnn/issues/28))
   * Backwards compatibility ([#24](https://github.com/webmachinelearning/webnn/issues/24))
   * DirectML proof-of-concept (Lead: Ningxin), [ops](https://github.com/intel/webml-polyfill/blob/master/docs/supported_ops.md), [native mapping](https://docs.google.com/spreadsheets/d/1nthZOwgIKsj34EB-SymEwoNTPsxo4X8Pxavm-JaBwME/edit?usp=sharing), [perf](https://docs.google.com/spreadsheets/d/1nZziT-2uOWeHFeOU3yDZ4_0KDJElkb_4nqXdv6vG5ak/edit?usp=sharing)
 
