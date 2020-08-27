@@ -27,3 +27,5 @@ Other locations: https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201
 ### Agenda
 
 * TBD
+
+[logo]: https://avatars3.githubusercontent.com/u/42399997?s=100 "WebML Logo, CC0 Creative Commons"
