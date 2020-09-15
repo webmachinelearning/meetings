@@ -15,6 +15,10 @@
 
 Other locations: https://www.timeanddate.com/worldclock/fixedtime.html?iso=20201022T14
 
+### Registration
+
+Please register via https://www.w3.org/2002/09/wbs/35125/TPAC2020/
+
 ### Logistics
 
 * Chair: Anssi
