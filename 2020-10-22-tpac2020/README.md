@@ -30,6 +30,19 @@ Please register via https://www.w3.org/2002/09/wbs/35125/TPAC2020/
 
 ### Agenda
 
-* TBD
+#### Workshop proceedings
+
+Discuss the [W3C Workshop on Web and Machine Learning](https://www.w3.org/2020/06/machine-learning-workshop/) key outcomes with a focus on proposed near-term and long-term standardization directions and next steps.
+
+References:
+
+- [Workshop report](https://www.w3.org/2020/06/machine-learning-workshop/report.html)
+- [Workshop presentations](https://www.w3.org/2020/06/machine-learning-workshop/presentations.html)
+- [Workshop discussions on GitHub](https://github.com/w3c/machine-learning-workshop/issues)
+- Live Sessions:
+  - Intro & Opportunities and Challenges (2020-09-16): [agenda](https://github.com/w3c/machine-learning-workshop/tree/master/agenda#september-16-2020-2pm-utc-%EF%B8%8F), [minutes](https://www.w3.org/2020/06/machine-learning-workshop/minutes/20200916.html)
+  - Web Platform Foundations (2020-09-22): [agenda](https://github.com/w3c/machine-learning-workshop/tree/master/agenda#september-22-2020-2pm-utc-%EF%B8%8F), [minutes](https://www.w3.org/2020/06/machine-learning-workshop/minutes/20200922.html)
+  - Developer's Perspective (2020-09-23): [agenda](https://github.com/w3c/machine-learning-workshop/tree/master/agenda#september-23-2020-2pm-utc-%EF%B8%8F), [minutes](https://www.w3.org/2020/06/machine-learning-workshop/minutes/20200923.html)
+  - User's Perspective & Next Steps (2020-09-29): [agenda](https://github.com/w3c/machine-learning-workshop/tree/master/agenda#september-29-2020-2pm-utc-%EF%B8%8F), [minutes](https://www.w3.org/2020/06/machine-learning-workshop/minutes/20200929.html)
 
 [logo]: https://avatars3.githubusercontent.com/u/42399997?s=100 "WebML Logo, CC0 Creative Commons"
