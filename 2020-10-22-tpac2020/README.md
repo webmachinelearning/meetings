@@ -32,7 +32,7 @@ Please register via https://www.w3.org/2002/09/wbs/35125/TPAC2020/
 
 #### Workshop proceedings
 
-Discuss the [W3C Workshop on Web and Machine Learning](https://www.w3.org/2020/06/machine-learning-workshop/) key outcomes with a focus on proposed near-term and long-term standardization directions and next steps.
+Discuss the [W3C Workshop on Web and Machine Learning](https://www.w3.org/2020/06/machine-learning-workshop/) key outcomes with a focus on proposed near-term and long-term standardization directions and next steps. See the proposed [Web Machine Learning Working Group Charter](https://w3c.github.io/machine-learning-charter/charter.html) ([GH repo](https://github.com/w3c/machine-learning-charter)).
 
 References:
 
