@@ -1,25 +1,36 @@
 # How to scribe
 
->Based on the most excellent guidance by Bert Bos shared with [chairs](https://www.w3.org/mid/c34fdac7-106c-1ed4-70f9-f96a514ab0f4@w3.org).
+## Quick start
 
-## Official manual
+1. Join the #webmachinelearning IRC channel: https://irc.w3.org/?channels=#webmachinelearning
 
-If you are using IRC for taking meeting minutes, you are probably aware of RRSAgent and its commands such as:
-- `topic:`
-- `present+`
-- `s/foo/bar/`
-- `rrsagent, make minutes`
+2. Once the chair has assigned you as a scribe, you're all set. The scribe selection is done at the beginning of each meeting.
 
-But if you haven't looked at the manual recently, you may be surprised at the new tricks RRSAgent has learned in the past year or two.
+3. Use these key IRC commands to record the essence of the discussion:
 
-The manual is actually two manuals:
+| IRC Command	| Explanation	| Who? |
+| --- | --- | --- |
+| `Topic: Feature X` | Use "Topic: …" at the start of each agenda topic. This will appear in the minutes as a header. | anybody |
+| `Subtopic: Feature X detail Y` | Use "Subtopic: …" for a subtopic. This will become a subheader. | anybody |
+| `Mike: Feature X is great` | Record what Mike said.	| scribe |
+| `... and easy to implement.`	| Mike's statement continues. Use three periods. | scribe |
+| `General agreement.` | A description or summary, not attributed to a particular speaker. Only works when the scribe writes this. | scribe |
+
+(Adapted from the [official manual](https://w3c.github.io/scribe2/scribedoc.html#notes).)
+
+
+<details><summary>For advanced users only ...</summary>
+
+# Official manuals
+
+The official manuals for advanced users: 
 
 - https://www.w3.org/2002/03/RRSAgent
 - https://w3c.github.io/scribe2/scribedoc.html
 
-(because there are two programs, RRSAgent and scribe.perl, that work together.)
+# New features
 
-Below are some examples.
+>Based on the most excellent expert guidance by Bert Bos shared with [chairs](https://www.w3.org/mid/c34fdac7-106c-1ed4-70f9-f96a514ab0f4@w3.org).
 
 ## More than one scribe
 
@@ -191,3 +202,4 @@ scribeoptions: -emphasis
 ## Pointing into the minutes
 
 If you are linking to a specific part of the minutes, know that every line in the minutes has an ID.
+</details>
