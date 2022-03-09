@@ -19,7 +19,7 @@
 (Adapted from the [official manual](https://w3c.github.io/scribe2/scribedoc.html#notes).)
 
 
-<!--details><summary>For advanced users only ...</summary-->
+<details><summary>For advanced users only ...</summary>
 
 # Official manuals
 
