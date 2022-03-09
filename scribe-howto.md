@@ -19,7 +19,7 @@
 (Adapted from the [official manual](https://w3c.github.io/scribe2/scribedoc.html#notes).)
 
 
-<details><summary>For advanced users only ...</summary>
+<!--details><summary>For advanced users only ...</summary-->
 
 # Official manuals
 
@@ -28,6 +28,20 @@ The official manuals for advanced users:
 - https://www.w3.org/2002/03/RRSAgent
 - https://w3c.github.io/scribe2/scribedoc.html
 
+# Fixing minutes
+  
+| IRC Command	| Explanation	| Who? |
+| --- | --- | --- |
+| `s/Mary/Marie/` | Change most recent occurrence of `Mary` to `Marie`. The old string is a literal string, not a regex. Alternate syntax: `s\|Mary\|Marie\|`  | anybody |
+| `s/Mary/Marie/g	` | Change all previous occurrences of `Mary` to `Marie`. | anybody |
+| `s/Mary/Marie/G	` | Change all previous and future occurrences of `Mary` to `Marie` (within this document).		| anybody |
+| `i/Time to vote/Topic: Vote on Feature Y`	| Insert a `Topic: Vote on Feature Y` line before the line containing the literal string `Time to vote` (not a regex). Alternate syntax: `i\|Time to vote\|Topic: Vote on Feature Y`	| anybody |
+| `s\|https://example.org/foobar\|https://w3.org/TR/\|` | Replace `https://example.org/foobar` with `https://w3.org/TR/` | anybody |
+
+(Adapted from the [official manual](https://w3c.github.io/scribe2/scribedoc.html#notes).)
+
+
+  
 # New features
 
 >Based on the most excellent expert guidance by Bert Bos shared with [chairs](https://www.w3.org/mid/c34fdac7-106c-1ed4-70f9-f96a514ab0f4@w3.org).
