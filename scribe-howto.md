@@ -27,7 +27,23 @@ The official manuals for advanced users:
 
 - https://www.w3.org/2002/03/RRSAgent
 - https://w3c.github.io/scribe2/scribedoc.html
+- https://w3c.github.io/GHURLBot/manual.html
+  
+# GitHub issue integration
+  
+Invite the bot and specify the GitHub repository:
+```
+/invite ghurlbot #webmachinelearning
+ghurlbot, this is webmachinelearning/webnn
+```
 
+IRC commands:  
+
+```
+<joe> #13
+<ghurlbot> -> Issue 13 This is issue title (issue author) https://github.com/webmachinelearning/webnn/issues/13
+```
+  
 # Fixing minutes
   
 | IRC Command	| Explanation	| Who? |
