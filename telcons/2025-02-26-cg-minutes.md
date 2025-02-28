@@ -2,7 +2,7 @@
 
 ### Agenda
 
-[2025-02-26-cg-agenda.md](telcons/2025-02-26-cg-agenda.md)
+[2025-02-26-cg-agenda.md](/telcons/2025-02-26-cg-agenda.md)
 
 ### Minutes
 
