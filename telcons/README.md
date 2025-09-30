@@ -28,3 +28,10 @@ Please note we don't book a recurring slot, so the meeting calendar will show on
 ## Joining the groups
 
 To receive the invites to your inbox and be able to participate in full capacity, please make sure you’re a participant of the right group(s), see [joining instructions](https://webmachinelearning.github.io/community/#join).
+
+## Contributing to the agenda
+
+Per W3C Process, the chair defines meeting agendas with a view to facilitate consensus. Anyone can contribute by proposing meeting topics for consideration. To do so, please apply the `Agenda+` label to the GH issue if you're part of the triage team. Otherwise, please tag the chair or editors in the issue to propose.
+
+You may also consult the specific triage guidelines, where available:
+- [Triage Guidance for WebNN Repo](https://github.com/webmachinelearning/webnn/blob/main/docs/IssueTriage.md)
