@@ -1,0 +1,1 @@
+The W3C's Web Machine Learning WG did not formally meet at [TPAC 2023](https://www.w3.org/2023/09/TPAC/). However, the WG's work received a lot of interest during the hallway track and in other meetings. For more information, see [Update from TPAC 2023](https://www.w3.org/2023/09/21-webmachinelearning-minutes.html#t01).
