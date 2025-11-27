@@ -114,7 +114,7 @@ Lunch at Portopia Hotel, South wing, Ohwada 2/3, 1F ([map](https://www.w3.org/20
 ### 📢 Customer feedback & collaborations
 
 > [!TIP]
->See [WebNN Awasome](https://github.com/webmachinelearning/awesome-webnn) for community feedback, demos, presentations, samples, testimonials, tutorials, videos, and more. And [APIs as ladders](https://blog.sbensu.com/posts/apis-as-ladders/) essay as food for thought.
+>See [WebNN Awesome](https://github.com/webmachinelearning/awesome-webnn) for community feedback, demos, presentations, samples, testimonials, tutorials, videos, and more. And [APIs as ladders](https://blog.sbensu.com/posts/apis-as-ladders/) essay as food for thought.
 
 `TBA` Discuss customer feedback, including end-users, frameworks, independent software vendors.
 
