@@ -1,0 +1,20 @@
+# Ignore all AGENTS.md minutes-generation outputs and transcription inputs.
+# These are working copies, machine-generated or auto-edited and MUST be
+# reviewed by a human before being committed to any repository.
+
+# Raw IRC minutes copied from w3.org
+*-irc.txt
+
+# Auto-edited working minutes
+*-irc-edited.txt
+
+# Final generated HTML minutes
+*-minutes-edited.html
+
+# Transcriptions (VTT)
+*.vtt
+
+# scribe2 tooling and scratch artifacts
+/scribe2/
+participants-*.html
+*.log
