@@ -23,7 +23,7 @@
 -->
 >- 📞 Remote joining instructions: see Invite > Joining Instructions (1 wk prior)
 >- ✍️ IRC web client: [#webmachinelearning](https://irc.w3.org/?channels=#webmachinelearning)
->- 🗓️ Invites: [26 October 2026](https://www.w3.org/events/meetings/dfcd7873-1491-4b68-ae1c-fe3e54c849f0/), [27 October 2026](https://www.w3.org/events/meetings/dcb0ae4c-9f48-4210-b489-b051a8d35ad7/)
+>- 🗓️ Invites: [26 October 2026](https://www.w3.org/events/meetings/dfcd7873-1491-4b68-ae1c-fe3e54c849f0/), [27 October 2026](https://www.w3.org/events/meetings/dcb0ae4c-9f48-4210-b489-b051a8d35ad7/), [30 October 2026](https://www.w3.org/events/meetings/f34c5c7b-93cd-490f-bb47-69f3724ba105/)
 >- ✍️ Minutes: [minutes 26 October 2026](https://www.w3.org/2026/10/26-webmachinelearning-minutes.html), [minutes 27 October 2026](https://www.w3.org/2026/10/27-webmachinelearning-minutes.html), [minutes 30 October 2026](https://www.w3.org/2026/10/30-webmachinelearning-minutes.html)
 
 # Agenda
