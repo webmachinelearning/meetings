@@ -237,7 +237,7 @@ Possible additional topics: batched `gemm` [#929](https://github.com/webmachinel
 
 
 
-## 27 October 2026: Community Group (WebMCP, Prompt API, other Built-in AI APIs)
+## 27 & 30 October 2026: Community Group (WebMCP, Prompt API, other Built-in AI APIs)
 <details close><summary>Toggle agenda ⤵️</summary>
 
 Meeting schedule in [Greenwich Mean Time (GMT)](https://www.timeanddate.com/time/zones/gmt). Remote participants, please confirm your local start time using the timezone table below.
